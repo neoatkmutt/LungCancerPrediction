@@ -54,7 +54,7 @@ else:
 #print(gender_input)
 
 x_new = pd.DataFrame({
-    'Age': [age_input_input],
+    'Age': [age_input],
     'Gender': [gender_input],
     'Air_pollution': [air_pollution_input],
     'Alcohol use':[alcohol_use_input],
